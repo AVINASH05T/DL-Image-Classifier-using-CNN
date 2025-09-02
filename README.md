@@ -1,5 +1,7 @@
 # DL-Convolutional Deep Neural Network for Image Classification
 
+### NAME : AVINASH T
+### REG NO : 212223230026
 ## AIM
 To develop a convolutional neural network (CNN) classification model for the given dataset.
 
