@@ -238,4 +238,4 @@ predict_image(model, image_index=80, dataset=test_dataset)
 
 
 ## RESULT
-Include your result here
+Thus, a Convolutional Neural Network Classification Model is Successfully Built.
